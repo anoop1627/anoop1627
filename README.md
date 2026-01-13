@@ -7,4 +7,4 @@ ERP systems, APIs, and data-driven platforms.
 🔹 Interests: System design, clean architecture, automation  
 🔹 Currently building: Surayee ERP
 
-📫 Reach me: thomasanoop1627@gmail.com
+📫 Reach me: thomasanoop13@gmail.com
